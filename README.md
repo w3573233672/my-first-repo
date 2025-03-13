@@ -1,3 +1,3 @@
 # my-first-repo
 first try
-y
+s
